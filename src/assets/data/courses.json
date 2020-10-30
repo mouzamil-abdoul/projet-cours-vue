@@ -1,0 +1,54 @@
+{
+  "name": "Les cours pour un développeur",
+  "cours": [
+    {
+      "number": "1",
+      "name": "HTML/CSS",
+      "stack": "front",
+      "image": "html-css.jpg",
+      "duration": "1"
+    },
+    {
+      "number": "2",
+      "name": "Javascript",
+      "stack": "front",
+      "image": "javascript.jpg",
+      "duration": "2"
+    },
+    {
+      "number": "3",
+      "name": "React",
+      "stack": "front",
+      "image": "reactjs.jpg",
+      "duration": "2"
+    },
+    {
+      "number": "4",
+      "name": "Vue.js",
+      "stack": "front",
+      "image": "vuejs.jpg",
+      "duration": "2"
+    },
+    {
+      "number": "5",
+      "name": "Angular",
+      "stack": "front",
+      "image": "angular.jpg",
+      "duration": "3"
+    },
+    {
+      "number": "6",
+      "name": "Symfony",
+      "stack": "back",
+      "image": "symfony.jpg",
+      "duration": "2"
+    },
+    {
+      "number": "7",
+      "name": "Laravel",
+      "stack": "back",
+      "image": "laravel.jpg",
+      "duration": "5"
+    }
+  ]
+}
